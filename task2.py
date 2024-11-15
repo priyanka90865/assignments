@@ -1,1 +1,0 @@
-print("python learning with django")
