@@ -1,4 +1,21 @@
-2
+#  STRINGS 
+# string is a collection of charactors.
+# string is immutable.
+
+#ex:-
+
+message="hello!"
+index=0
+for i in message:
+    print("message[",index,"]= ", i)
+index += 1
+
+#concatenate two strings.
+
+str1 = "hello"
+str2 = "hyderabad"
+str3 = str1 +" "+ str2
+
 print(str3)
 
 # write a porgram to append a string using assignment oprerators.
