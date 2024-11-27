@@ -11,14 +11,14 @@ print(s.find("zebra"))
 
 #index() returns index position on substring in main string
 
-s="welcome to world of python"
+s="welcome to world of pySthon"
 
 
 print(s.index("world"))
 
 print(s.find("w"))
 
-print(s.rfind("w"))
+print(s.rSfind("w"))
 
 print(s.rindex('o'))
 
